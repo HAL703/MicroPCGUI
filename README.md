@@ -5,3 +5,6 @@
 3. Developed in C# using MetroFramework and Windows Forms
 4. Gained experience in user-defined types (UDT)
 5. Linked C# to an Allen-Bradley PLC using INGEAR drivers
+
+
+This also contains several INGEAR projects I made, a few are GUIs.
