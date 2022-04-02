@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cs.netcf">
+</Property><Property Name="Solution File" Value="C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\cs.netcf.sln">
+</Property><Property Name="User Options File" Value="C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\cs.netcf.suo">
+</Property><Property Name="Date" Value="Monday, April 16, 2018">
+</Property><Property Name="Time" Value="15:06 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="cs.netcf.sln" Description="File successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\cs.netcf.sln">
+</Event><Event ErrorLevel="0" Project="" Source="cs.netcf.suo" Description="File successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\cs.netcf.suo">
+</Event><Event ErrorLevel="0" Project="cs.netcf" Source="cs.netcf.csproj" Description="Project file successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\cs.netcf.csproj">
+</Event><Event ErrorLevel="0" Project="cs.netcf" Source="cs.netcf.csproj.user" Description="Project user file successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\cs.netcf.csproj.user">
+</Event><Event ErrorLevel="0" Project="cs.netcf" Source="Form1.cs" Description="File successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="cs.netcf" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="cs.netcf" Source="Program.cs" Description="File successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="cs.netcf" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="cs.netcf" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="cs.netcf" Source="pda.ico" Description="File successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\pda.ico">
+</Event><Event ErrorLevel="0" Project="cs.netcf" Source="Form1.resx" Description="File successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="cs.netcf" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Projects\DotNet\Desktop\AB\NETLOGIX 7.0\COMPACTFRAMEWORK\NETLOGIXCF\Examples\cs.netcf\cs.netcf\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="cs.netcf" Source="cs.netcf.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="cs.netcf" Source="cs.netcf.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="cs.netcf.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="cs.netcf.sln" Description="Converted">
+</Event></UpgradeLog>

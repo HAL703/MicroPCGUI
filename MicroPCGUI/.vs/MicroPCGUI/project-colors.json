@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f71f3d1-bb0c-46b3-b6df-b0e111f40653": {
+      "ProjectGuid": "5f71f3d1-bb0c-46b3-b6df-b0e111f40653",
+      "DisplayName": "MicroPCGUI",
+      "ColorIndex": 0
+    },
+    "a60c0720-ea21-47a5-ba9a-8fd63ec39100": {
+      "ProjectGuid": "a60c0720-ea21-47a5-ba9a-8fd63ec39100",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

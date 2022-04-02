@@ -1,0 +1,13 @@
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\bin\Debug\NET.LOGIX CS.Simple.exe.config
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\bin\Debug\NET.LOGIX CS.Simple.exe
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\bin\Debug\NET.LOGIX CS.Simple.pdb
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\bin\Debug\DeployLX.Licensing.v5.dll
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\bin\Debug\INGEAR.NET.Interfaces.dll
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\bin\Debug\INGEAR.NET.Logix.dll
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\obj\Debug\NETLOGIX.CS.Simple.csprojAssemblyReference.cache
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\obj\Debug\NETLOGIX.CS.Simple.csNetForm.resources
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\obj\Debug\NETLOGIX.CS.Simple.csproj.GenerateResource.cache
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\obj\Debug\NETLOGIX.CS.Simple.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\obj\Debug\NETLOGIX.CS.Simple.csproj.CopyComplete
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\obj\Debug\NET.LOGIX CS.Simple.exe
+C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Windows\Examples\C Sharp\NETLOGIX.CS.Simple\obj\Debug\NET.LOGIX CS.Simple.pdb

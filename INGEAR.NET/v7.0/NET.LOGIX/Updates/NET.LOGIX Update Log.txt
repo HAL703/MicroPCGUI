@@ -1,0 +1,11 @@
+[12/14/2020 09:35:00] Success	Update started: C:\Program Files (x86)\INGEAR.NET\v7.0\NET.LOGIX\Updates\nlgx7updater.exe
+[12/14/2020 09:35:00] Notice	Update engine version: 3.8.0.0
+[12/14/2020 09:35:00] Notice	Product: NET.LOGIX
+[12/14/2020 09:35:00] Success	Language set: Primary = 9, Secondary = 1
+[12/14/2020 09:35:01] Success	Include script: _TU20_Global_Functions.lua
+[12/14/2020 09:35:01] Success	Display screen: Welcome
+[12/14/2020 09:35:07] Success	Display screen: Download Server Script
+[12/14/2020 09:35:08] Success	Language set: Primary = 9, Secondary = 1
+[12/14/2020 09:35:08] Success	Display screen: Already At Target
+[12/14/2020 09:35:12] Success	Run client data event: Client Script
+[12/14/2020 09:35:12] Notice	Exit update process (Return code: 5)

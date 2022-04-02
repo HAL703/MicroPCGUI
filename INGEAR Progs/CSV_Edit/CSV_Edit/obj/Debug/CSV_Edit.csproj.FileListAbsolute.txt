@@ -1,0 +1,16 @@
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\obj\Debug\CSV_Edit.csprojAssemblyReference.cache
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\obj\Debug\CSV_Edit.Form1.resources
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\obj\Debug\CSV_Edit.Properties.Resources.resources
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\obj\Debug\CSV_Edit.csproj.GenerateResource.cache
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\obj\Debug\CSV_Edit.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\bin\Debug\CSV_Edit.exe.config
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\bin\Debug\CSV_Edit.exe
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\bin\Debug\CSV_Edit.pdb
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\bin\Debug\FileHelpers.dll
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\bin\Debug\RJCP.SerialPortStream.dll
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\bin\Debug\FileHelpers.xml
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\bin\Debug\RJCP.SerialPortStream.pdb
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\bin\Debug\RJCP.SerialPortStream.xml
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\obj\Debug\CSV_Edit.csproj.CopyComplete
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\obj\Debug\CSV_Edit.exe
+C:\Users\MyPC\source\repos\CSV_Edit\CSV_Edit\obj\Debug\CSV_Edit.pdb

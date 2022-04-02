@@ -1,0 +1,19 @@
+//Encodes the general struct to be able to write to the correct values in the PLC, deprecated since this is done individually now
+        /*private void EncodeGeneralStruct()
+        {
+            GUI_GENERAL_STRUCT guiGen = (GUI_GENERAL_STRUCT)udtEnc.ToType(gui_general_struct, typeof(GUI_GENERAL_STRUCT));
+            bool[] limits = new bool[2];
+            try
+            {
+                guiGen.guiGeneral[xyz].Cycle_Setpoint = Convert.ToInt32(cycleSetPoint.Text);
+                guiGen.guiGeneral[xyz].Hammer_Retract = Convert.ToInt32(hammerRetract.Text);
+                guiGen.guiGeneral[xyz].Hammer_Setpoint = Convert.ToSingle(hammerSP.Text);
+                guiGen.guiGeneral[xyz].data_display.DATA = Convert.ToString(dataDisplayLbl.Text);
+
+                gui_general_struct.Value = udtEnc.FromType(guiGen);
+            }
+            catch (System.Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }*/

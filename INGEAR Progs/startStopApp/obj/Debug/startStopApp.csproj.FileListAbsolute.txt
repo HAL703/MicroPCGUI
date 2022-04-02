@@ -1,0 +1,32 @@
+C:\Users\MyPC\source\repos\startStopApp\bin\Debug\startStopApp.exe.config
+C:\Users\MyPC\source\repos\startStopApp\bin\Debug\startStopApp.exe
+C:\Users\MyPC\source\repos\startStopApp\bin\Debug\startStopApp.pdb
+C:\Users\MyPC\source\repos\startStopApp\bin\Debug\DeployLX.Licensing.v5.dll
+C:\Users\MyPC\source\repos\startStopApp\bin\Debug\INGEAR.NET.Interfaces.dll
+C:\Users\MyPC\source\repos\startStopApp\bin\Debug\INGEAR.NET.Logix.dll
+C:\Users\MyPC\source\repos\startStopApp\obj\Debug\startStopApp.csprojAssemblyReference.cache
+C:\Users\MyPC\source\repos\startStopApp\obj\Debug\startStopApp.Form1.resources
+C:\Users\MyPC\source\repos\startStopApp\obj\Debug\startStopApp.Properties.Resources.resources
+C:\Users\MyPC\source\repos\startStopApp\obj\Debug\startStopApp.csproj.GenerateResource.cache
+C:\Users\MyPC\source\repos\startStopApp\obj\Debug\startStopApp.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\startStopApp\obj\Debug\startStopApp.csproj.CopyComplete
+C:\Users\MyPC\source\repos\startStopApp\obj\Debug\startStopApp.exe
+C:\Users\MyPC\source\repos\startStopApp\obj\Debug\startStopApp.pdb
+C:\Users\MyPC\source\repos\startStopApp\bin\Debug\NModbus.dll
+C:\Users\MyPC\source\repos\startStopApp\bin\Debug\NModbus.xml
+E:\INGEAR Progs\startStopApp\bin\Debug\startStopApp.exe.config
+E:\INGEAR Progs\startStopApp\bin\Debug\startStopApp.exe
+E:\INGEAR Progs\startStopApp\bin\Debug\startStopApp.pdb
+E:\INGEAR Progs\startStopApp\bin\Debug\DeployLX.Licensing.v5.dll
+E:\INGEAR Progs\startStopApp\bin\Debug\INGEAR.NET.Interfaces.dll
+E:\INGEAR Progs\startStopApp\bin\Debug\INGEAR.NET.Logix.dll
+E:\INGEAR Progs\startStopApp\bin\Debug\NModbus.dll
+E:\INGEAR Progs\startStopApp\bin\Debug\NModbus.xml
+E:\INGEAR Progs\startStopApp\obj\Debug\startStopApp.csproj.AssemblyReference.cache
+E:\INGEAR Progs\startStopApp\obj\Debug\startStopApp.Form1.resources
+E:\INGEAR Progs\startStopApp\obj\Debug\startStopApp.Properties.Resources.resources
+E:\INGEAR Progs\startStopApp\obj\Debug\startStopApp.csproj.GenerateResource.cache
+E:\INGEAR Progs\startStopApp\obj\Debug\startStopApp.csproj.CoreCompileInputs.cache
+E:\INGEAR Progs\startStopApp\obj\Debug\startStopApp.csproj.CopyComplete
+E:\INGEAR Progs\startStopApp\obj\Debug\startStopApp.exe
+E:\INGEAR Progs\startStopApp\obj\Debug\startStopApp.pdb
